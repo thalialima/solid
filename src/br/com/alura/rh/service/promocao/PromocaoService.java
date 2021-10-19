@@ -4,7 +4,7 @@ import br.com.alura.rh.ValidacaoException;
 import br.com.alura.rh.model.Cargo;
 import br.com.alura.rh.model.Funcionario;
 
-public class promocaoService {
+public class PromocaoService {
 
 	public void promover(Funcionario funcionario, boolean metaBatida) {
 		
